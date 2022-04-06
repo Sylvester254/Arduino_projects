@@ -1,2 +1,2 @@
 # Arduino_projects
-Projects done with any microcontroller.
+For all Projects done with Arduino microcontroller and whichever sensors i'll  use.
