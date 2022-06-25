@@ -2,8 +2,8 @@
 #include <ESP8266WiFi.h>
 
 //------- WI-FI details ----------//
-char ssid[] = "sly"; //SSID here
-char pass[] = "abcd1234"; // Passowrd here
+char ssid[] = "eduroam"; //SSID here
+char pass[] = "aid00621019"; // Passowrd here
 //--------------------------------//
 
 //----------- Channel details ----------------//
